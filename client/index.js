@@ -4,8 +4,25 @@ const AUTOCOMPLETE_API = "http://localhost:3000/autocomplete?keyword=";
 
 const searchField = document.getElementById("search-field");
 
-function showAutoCompleteList(arr) {
-    
+function viewList(ulElement, arrList){
+    arrList.forEach(data => {
+        let liElement = document.createElement("li");
+        liElement.className = "autocomplete-item";
+        liElement.innerHTML = data;
+
+        ulElement.appendChild(liElement);
+    });
+}
+
+function removeAllChildElement(element) {
+    while ( element.hasChildNodes() ) { element.removeChild( element.firstChild ); }
+}
+
+function showAutoCompleteList(dataList){
+    const autocompleteResults = document.querySelector(".autocomplete-results");
+    // 새로 보여주어야되기 때문에 이전에 존재하던 autoCompleteList li들을 제거한다.
+    removeAllChildElement(autocompleteResults);
+    viewList(autocompleteResults, dataList);
 }
 
 function getAndShowAutoCompleteKey(keyword){
