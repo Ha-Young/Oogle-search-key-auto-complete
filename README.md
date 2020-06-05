@@ -1,3 +1,5 @@
+# 완료하였음.
+
 # Oogle 검색사이트 자동완성 기능 만들기
 
 - 본 프로젝트는 Fast campus의 Byte Degree Javascript 강의 수강생을 대상으로 한 과제입니다.
