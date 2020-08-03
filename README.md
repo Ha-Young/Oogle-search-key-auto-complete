@@ -1,8 +1,10 @@
-# 완료하였음.
-
 # Oogle 검색사이트 자동완성 기능 만들기
 
 - 본 프로젝트는 과제입니다.
+
+# deploy
+- [ghPage]("http:/Ha-Young.github.io/Oogle-search-key-auto-complete")
+(study 검색 자동완성만 됩니다)
 
 ---
 
