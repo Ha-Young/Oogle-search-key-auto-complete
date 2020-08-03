@@ -1,5 +1,5 @@
 {
-    "autocomplete" : {
+    "autocomplete": {
         "s": [
             "study",
             "speacial",
@@ -30,6 +30,108 @@
             "study",
             "study room",
             "study hard"
+        ],
+        "r": [
+            "react",
+            "reddit",
+            "robot",
+            "ridibooks"
+        ],
+        "re": [
+            "react",
+            "reddit",
+            "rest api",
+            "react native",
+            "regex"
+        ],
+        "rea": [
+            "react",
+            "realtek",
+            "realgraphic",
+            "react native",
+            "react router"
+        ],
+        "reac": [
+            "react",
+            "reach",
+            "react native",
+            "react router",
+            "react hook",
+            "react redux"
+        ],
+        "react": [
+            "react",
+            "react native",
+            "react router",
+            "react hook",
+            "react redux",
+            "react middleware",
+            "react-router-dom"
+        ],
+        "j": [
+            "javascript",
+            "json",
+            "job",
+            "java",
+            "jquery"
+        ],
+        "ja": [
+            "java",
+            "javascript",
+            "jaju",
+            "jandi"
+        ],
+        "jav": [
+            "java",
+            "javascript",
+            "javascript split",
+            "java substring",
+            "java split"
+        ],
+        "java": [
+            "java",
+            "java substring",
+            "java split",
+            "java spring",
+            "javascrpit"
+        ],
+        "javas": [
+            "javascript",
+            "javascript split",
+            "java spring",
+            "java split",
+            "java substring"
+        ],
+        "javasc": [
+            "javascript",
+            "javascript split",
+            "javascript array",
+            "javascript closer",
+            "javascript ES6"
+        ],
+        "javascr": [
+            "javascript",
+            "javascript split",
+            "javascript closer",
+            "javascript ES6"
+        ],
+        "javascri": [
+            "javascript",
+            "javascript split",
+            "javascript array",
+            "javascript closer",
+            "javascript ES6"
+        ],
+        "javascrip": [
+            "javascript",
+            "javascript split",
+            "javascript array",
+            "javascript closer"
+        ],
+        "javascript": [
+            "javascript",
+            "javascript split",
+            "javascript array"
         ]
     }
 }
