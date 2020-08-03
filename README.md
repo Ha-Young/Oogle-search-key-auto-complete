@@ -2,10 +2,10 @@
 
 - 본 프로젝트는 과제입니다.
 
-# deploy
-- [GhPage](https://ha-young.github.io/Oogle-search-key-auto-complete)
-
-* study 검색 자동완성만 됩니다
+# How To
+1. git clone
+2. npm i
+3. npm start
 
 ---
 
