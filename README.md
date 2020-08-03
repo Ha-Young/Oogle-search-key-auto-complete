@@ -4,7 +4,8 @@
 
 # deploy
 - [ghPage]("http:/Ha-Young.github.io/Oogle-search-key-auto-complete")
-(study 검색 자동완성만 됩니다)
+
+study 검색 자동완성만 됩니다
 
 ---
 
